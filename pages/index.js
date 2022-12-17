@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Welcome to VerseMeta!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Get started by Join <code>@VerseMetaBsc</code>
         </p>
       </main>
 
